@@ -1,6 +1,6 @@
-# Halo Semua
+# Hello Everyone !
 
-Perkenalkan nama saya _Rafi Muhammad Fikri_.
+My Name _Rafi Muhammad Fikri_.
 
 <p align="left">
 <a href="https://github.com/rafifikri">
