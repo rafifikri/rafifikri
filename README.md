@@ -1,6 +1,11 @@
-# Hello Everyone !
+<h1> Hello Everyone👋, I'm Rafi Muhammad Fikri</h1>
+<h3>Junior Web Developer</h3>
 
-My Name _Rafi Muhammad Fikri_.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakh0vine&label=Profile%20views&color=0e75b6&style=flat" alt="zakh0vine" /> </p>
+
+- 🌟 Recently graduated from Telkom University Purwokerto with a Bachelor's degree in Informatics Engineering
+
+- ⚡ I’m currently learning Javascript, PHP, Laravel, React, Express
 
 <p align="left">
 <a href="https://github.com/rafifikri">
